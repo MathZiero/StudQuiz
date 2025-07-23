@@ -1,0 +1,66 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 1,Seguridade Social,"1. Conceito de política social e seguridade social.","",não informado
+Bloco 1,Seguridade Social,"2. Estado brasileiro e proteção social","2.1. Vertentes históricas",não informado
+Bloco 1,Seguridade Social,"2. Estado brasileiro e proteção social","2.2. A construção da política social no Brasil",não informado
+Bloco 1,Seguridade Social,"2. Estado brasileiro e proteção social","2.3. Diretrizes e objetivos da seguridade social",não informado
+Bloco 1,Seguridade Social,"3. Evolução legislativa da seguridade social no Brasil","3.1. Constituição de 1988: Direitos sociais (art. 5, 6, 7) e Seguridade social (art. 194 e 195)",não informado
+Bloco 1,Seguridade Social,"3. Evolução legislativa da seguridade social no Brasil","3.2. Lei nº 8.212/1991 e suas alterações",não informado
+Bloco 1,Seguridade Social,"4. Financiamento e orçamento da seguridade social","",não informado
+Bloco 1,Saúde,"1. Aspectos históricos da política de saúde no Brasil","1.1. Reforma Sanitária",não informado
+Bloco 1,Saúde,"2. Legislações relativas à política pública de saúde","2.1. Lei nº 8.080/1990 e suas alterações",não informado
+Bloco 1,Saúde,"2. Legislações relativas à política pública de saúde","2.2. Lei nº 8.142/1990 e suas alterações",não informado
+Bloco 1,Saúde,"2. Legislações relativas à política pública de saúde","2.3. Conselhos e Conferências no Sistema Único de Saúde (SUS): a participação da comunidade na gestão",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.1. Tecnologias em saúde: conceitos e tipologias",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.2. Aspectos éticos e bioéticos nos estudos e pesquisas em saúde",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.3. Metodologias de pesquisa em saúde",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.4. Política Nacional de Gestão da Tecnologia em Saúde",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.5. Estudos e avaliação de indicadores de saúde: sistemas nacionais de informação",não informado
+Bloco 1,Saúde,"3. Ciência, Pesquisa e Tecnologia em saúde","3.6. Desenhos de estudos epidemiológicos para investigação de doenças e agravos",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.1. Estrutura e organização do SUS",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.2. Modelos assistenciais e linhas de cuidado em saúde",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.3. Política Nacional de Promoção da Saúde",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.4. O papel dos serviços de saúde nos diferentes níveis da assistência na resposta às emergências em saúde pública e eventos de potencial risco sanitário nacional",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.5. Diagnóstico de saúde: diagnóstico, tratamento e prevenção de doenças transmissíveis, não transmissíveis e outros agravos de notificação obrigatória",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.6. Trabalho em equipe multidisciplinar / interdisciplinar / transdisciplinar",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.7. Política Nacional de Atenção Especializada em Saúde",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.8. Programa Nacional de Controle de Infecção Hospitalar",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.9. Política Nacional de Segurança do Paciente",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.10. Política Nacional de Humanização",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.11. Política Nacional de Saúde Mental, Álcool e Outras Drogas",não informado
+Bloco 1,Saúde,"4. A política de saúde e o Sistema Único de Saúde (SUS)","4.12. Informação, comunicação e educação em saúde",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.1. Cenário epidemiológico no Brasil: transição demográfica e epidemiológica das doenças e agravos da saúde",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.2. Determinantes sociais, ambientais e biológicos do processo saúde-doença",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.3. Contribuição da vigilância em saúde e ferramentas para ações de controle e monitoramento de epidemias, endemias regionais e de vetores relacionados a doenças transmissíveis",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.4. Planejamento, execução e avaliação do processo de vigilância em saúde das doenças transmissíveis e não transmissíveis",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.5. Investigação, monitoramento e avaliação de riscos e dos determinantes de doenças e agravos e dos danos à saúde e ao meio ambiente",não informado
+Bloco 1,Saúde,"5. Política Nacional de Vigilância em Saúde","5.6. Programa Nacional de Imunização (PNI)",não informado
+Bloco 1,Assistência Social,"1. Aspectos históricos da assistência social no Brasil","",não informado
+Bloco 1,Assistência Social,"2. Legislações relativas à política pública de assistência social","2.1. Lei nº 8.742/1993 – LOAS",não informado
+Bloco 1,Assistência Social,"2. Legislações relativas à política pública de assistência social","2.2. Política Nacional de Assistência Social (PNAS) 2004",não informado
+Bloco 1,Assistência Social,"2. Legislações relativas à política pública de assistência social","2.3. Norma Operacional Básica do Sistema Único de Assistência Social (NOB/SUAS/2012)",não informado
+Bloco 1,Assistência Social,"3. Pobreza, desigualdades e vulnerabilidade social","",não informado
+Bloco 1,Assistência Social,"4. A política de assistência social e o Sistema Único de Assistência Social (SUAS)","4.1. Estrutura e organização do SUAS",não informado
+Bloco 1,Assistência Social,"4. A política de assistência social e o Sistema Único de Assistência Social (SUAS)","4.2. Proteção social básica",não informado
+Bloco 1,Assistência Social,"4. A política de assistência social e o Sistema Único de Assistência Social (SUAS)","4.3. Proteção social especial",não informado
+Bloco 1,Assistência Social,"4. A política de assistência social e o Sistema Único de Assistência Social (SUAS)","4.4. Benefícios eventuais",não informado
+Bloco 1,Assistência Social,"5. Gestão do Sistema Único de Assistência Social (SUAS)","",não informado
+Bloco 1,Assistência Social,"6. Benefício de Prestação Continuada","6.1. Modelos de avaliação da deficiência",não informado
+Bloco 1,Assistência Social,"6. Benefício de Prestação Continuada","6.2. Decreto nº 6.214/2007 (Lei Brasileira de Inclusão da Pessoa com Deficiência)",não informado
+Bloco 1,Previdência Social,"1. Noções de direito previdenciário","1.1. Constituição Federal de 1988 (arts. 201 e 202)",não informado
+Bloco 1,Previdência Social,"1. Noções de direito previdenciário","1.2. Lei nº 8.213/1991",não informado
+Bloco 1,Previdência Social,"2. Finalidades e princípios básicos da previdência social","",não informado
+Bloco 1,Previdência Social,"3. Regimes Próprios de Previdência Social","",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.1. Segurados obrigatórios (conceito, características e abrangência)",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.2. Filiação e inscrição",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.3. Conceito, características e abrangência: empregado, empregado doméstico, contribuinte individual, trabalhador avulso e segurado especial",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.4. Segurado facultativo (conceito, características, filiação e inscrição)",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.5. Trabalhadores excluídos do Regime Geral de Previdência Social",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.6. Empresa e empregador doméstico: conceito previdenciário",não informado
+Bloco 1,Previdência Social,"4. Regime Geral de Previdência Social","4.7. Manutenção, perda e restabelecimento da qualidade de segurado",não informado
+Bloco 1,Previdência Social,"5. Plano de Benefícios da Previdência Social","5.1. Beneficiários e benefícios",não informado
+Bloco 1,Previdência Social,"5. Plano de Benefícios da Previdência Social","5.2. Serviço Social e Reabilitação Profissional",não informado
+Bloco 1,Previdência Social,"6. Avaliação biopsicossocial da deficiência","6.1. Definição da pessoa com deficiência",não informado
+Bloco 1,Previdência Social,"6. Avaliação biopsicossocial da deficiência","6.2. Grau de gravidade da deficiência à luz da CIF/IFBrM",não informado
+Bloco 1,Previdência Social,"6. Avaliação biopsicossocial da deficiência","6.3. Critérios de concessão da aposentadoria da pessoa com deficiência (RGPS)",não informado
+Bloco 1,Previdência Social,"6. Avaliação biopsicossocial da deficiência","6.4. Lei Complementar nº 142/2013",não informado
+Bloco 1,Previdência Social,"7. Doenças ocupacionais e Perfil Profissiográfico Previdenciário","",não informado

@@ -1,0 +1,96 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.1. Análise de ambientes e cenários",não informado
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.2. Estabelecimento de objetivos e metas organizacionais",não informado
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.3. Métodos de elaboração de mapas estratégicos e planos de ação",não informado
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.4. Implementação de estratégias",não informado
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.5. Ferramentas de gestão",não informado
+Bloco 5,"Seguridade Social","1. Planejamento e gestão estratégica: conceitos, princípios, etapas, níveis, métodos e ferramentas","1.6. Indicadores de desempenho: conceito, formulação e análise",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.1. Evolução e funções da gestão de pessoas",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.2. Recrutamento e seleção",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.3. Gestão do desempenho, avaliação de desempenho e entrega por resultados",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.4. Valorização, sistemas de recompensas e responsabilização",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.5. Gestão por competências",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.6. Clima e cultura organizacional",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.7. Liderança (estilos e situações de trabalho)",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.8. Teorias da motivação",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.9. Negociação e gestão de conflitos",não informado
+Bloco 5,"Seguridade Social","2. Gestão de pessoas","2.10. Tendências do futuro do trabalho no serviço público (IA)",não informado
+Bloco 5,"Seguridade Social","3. Gestão de projetos","3.1. Conceitos básicos",não informado
+Bloco 5,"Seguridade Social","3. Gestão de projetos","3.2. Gerenciamento da integração, do escopo, do tempo, de custos, da qualidade, de recursos humanos, de comunicações, de riscos, de aquisições e de partes interessadas",não informado
+Bloco 5,"Seguridade Social","3. Gestão de projetos","3.3. Metodologias ágeis",não informado
+Bloco 5,"Seguridade Social","4. Gestão de processos","4.1. Conceitos da abordagem por processos",não informado
+Bloco 5,"Seguridade Social","4. Gestão de processos","4.2. Técnicas de mapeamento, análise e melhoria de processos",não informado
+Bloco 5,"Seguridade Social","4. Gestão de processos","4.3. Inteligência artificial e automação de processos (potencialidades e riscos)",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","1. Gestão de riscos: princípios, objetivos, técnicas, integração ao planejamento","1.1. Boas práticas de gestão de riscos",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","1. Gestão de riscos: princípios, objetivos, técnicas, integração ao planejamento","1.2. Controles interno e externo",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","2. Inovação na gestão pública","2.1. Transformação digital do Estado",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","2. Inovação na gestão pública","2.2. Governo eletrônico",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","2. Inovação na gestão pública","2.3. Trabalho no setor público e uso de IA (potencialidades e riscos)",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","3. Participação social nos processos de gestão das políticas públicas","3.1. Controle social",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","4. Parcerias entre governo e sociedade","4.1. Marco Regulatório das OSC",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","4. Parcerias entre governo e sociedade","4.2. Instrumentos e termos de fomento e colaboração",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","5. Articulação versus fragmentação de ações governamentais","5.1. Dimensões da coordenação (intra, intergovernamental e governo-sociedade)",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","5. Articulação versus fragmentação de ações governamentais","5.2. Coordenação executiva e núcleo de governo",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","6. Administração de recursos materiais e patrimoniais","6.1. Conceituação de material e patrimônio",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","6. Administração de recursos materiais e patrimoniais","6.2. Patrimônio de empresas e órgãos públicos",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","6. Administração de recursos materiais e patrimoniais","6.3. Gestão da cadeia de suprimentos",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","6. Administração de recursos materiais e patrimoniais","6.4. Logística reversa",não informado
+Bloco 5,"Gestão Governamental e Governança Pública","6. Administração de recursos materiais e patrimoniais","6.5. Logística e transformação digital",não informado
+Bloco 5,"Políticas Públicas","1. As diferentes conceituações de políticas públicas","1.1. O processo de políticas públicas",não informado
+Bloco 5,"Políticas Públicas","1. As diferentes conceituações de políticas públicas","1.2. O papel do Estado",não informado
+Bloco 5,"Políticas Públicas","1. As diferentes conceituações de políticas públicas","1.3. A burocracia e o Estado",não informado
+Bloco 5,"Políticas Públicas","1. As diferentes conceituações de políticas públicas","1.4. Burocracia e discricionariedade na formulação/implementação",não informado
+Bloco 5,"Políticas Públicas","2. Implementação de políticas públicas: problemas, dilemas e desafios","2.1. Arranjos institucionais para implementação",não informado
+Bloco 5,"Políticas Públicas","2. Implementação de políticas públicas: problemas, dilemas e desafios","2.2. Instrumentos de implementação (fundos, consórcios, transferências obrigatórias, etc.)",não informado
+Bloco 5,"Políticas Públicas","3. Monitoramento e avaliação de políticas públicas","3.1. Sistemas de monitoramento",não informado
+Bloco 5,"Políticas Públicas","3. Monitoramento e avaliação de políticas públicas","3.2. Tipos e modalidades de avaliação",não informado
+Bloco 5,"Políticas Públicas","3. Monitoramento e avaliação de políticas públicas","3.3. Custo-benefício, efetividade e equidade",não informado
+Bloco 5,"Políticas Públicas","4. Políticas públicas informadas por evidência","4.1. Conceito e tipos de evidência",não informado
+Bloco 5,"Políticas Públicas","4. Políticas públicas informadas por evidência","4.2. Institucionalização e governança do uso de evidências",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.1. Orçamento público: conceito e funções",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.2. Técnicas e princípios orçamentários",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.3. Ciclo orçamentário e processos (PPA, LDO, LOA, créditos)",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.4. Ciclo orçamentário (continuação): elaboração, aprovação e execução",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.5. Orçamento anual e créditos: ordinários e adicionais",não informado
+Bloco 5,"Administração Financeira e Orçamentária","1. O papel do Estado e atuação do governo nas finanças públicas","1.6. Emendas parlamentares",não informado
+Bloco 5,"Administração Financeira e Orçamentária","2. Contabilidade Pública: princípios fundamentais","2.1. Patrimônio (componentes: ativo, passivo, patrimônio líquido)",não informado
+Bloco 5,"Administração Financeira e Orçamentária","2. Contabilidade Pública: princípios fundamentais","2.2. Fatos contábeis e variações patrimoniais na área pública",não informado
+Bloco 5,"Administração Financeira e Orçamentária","3. Receita pública","3.1. Conceito e classificações de receita",não informado
+Bloco 5,"Administração Financeira e Orçamentária","3. Receita pública","3.2. Estágios da receita pública",não informado
+Bloco 5,"Administração Financeira e Orçamentária","3. Receita pública","3.3. Fontes de receita pública",não informado
+Bloco 5,"Administração Financeira e Orçamentária","3. Receita pública","3.4. Dívida ativa",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.1. Conceito e classificações de despesa",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.2. Estágios da despesa pública",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.3. Restos a pagar",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.4. Despesas de exercícios anteriores",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.5. Dívida flutuante e fundada",não informado
+Bloco 5,"Administração Financeira e Orçamentária","4. Despesa pública","4.6. Suprimento de fundos",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.1. Conceito, natureza jurídica, objeto e finalidade",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.2. Princípios básicos e correlatos",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.3. Modalidades licitatórias",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.4. Obrigatoriedade, dispensa e inexigibilidade",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.5. Procedimento licitatório",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.6. Anulação, revogação e recursos administrativos",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.7. Sanções e procedimento sancionatório",não informado
+Bloco 5,"Administração Financeira e Orçamentária","5. Licitação","5.8. Crimes em licitações e contratos administrativos",não informado
+Bloco 5,"Administração Financeira e Orçamentária","6. Contrato administrativo para compras","6.1. Conceito, principais características e espécies",não informado
+Bloco 5,"Administração Financeira e Orçamentária","6. Contrato administrativo para compras","6.2. Planejamento de compras públicas (demanda, plano anual, estudos técnicos, riscos, termo de referência)",não informado
+Bloco 5,"Administração Financeira e Orçamentária","6. Contrato administrativo para compras","6.3. Execução e inexecução contratual",não informado
+Bloco 5,"Administração Financeira e Orçamentária","6. Contrato administrativo para compras","6.4. Duração, prorrogação, renovação e extinção contratual",não informado
+Bloco 5,"Administração Financeira e Orçamentária","6. Contrato administrativo para compras","6.5. Revisão e rescisão",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","1. Transparência pública","1.1. Lei de Acesso à Informação (direito de acesso, negativas de acesso, informações classificadas, dados abertos)",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","1. Transparência pública","1.2. Portal da Transparência (transparência ativa e passiva)",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","2. Lei Geral de Proteção de Dados (LGPD)","2.1. Fundamentos e campo de aplicação",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","2. Lei Geral de Proteção de Dados (LGPD)","2.2. Princípios e direitos do titular",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","2. Lei Geral de Proteção de Dados (LGPD)","2.3. Responsabilidades dos agentes, aspectos internacionais, segurança e ANPD",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.1. Finalidades da comunicação pública",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.2. Comunicação política e comunicação de serviço",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.3. Estratégia de comunicação (identidade e narrativa)",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.4. Comunicação das políticas públicas",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.5. Elaboração de relatórios executivos, briefing e notas informativas",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.6. Comunicação em mídias digitais",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","3. Comunicação contemporânea e internet","3.7. A ética na produção de conteúdo com IA generativa",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","4. Atendimento ao cidadão","4.1. Qualidade de serviços públicos, acessibilidade e linguagem simples",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","5. Estatística","5.1. Noções de amostragem (probabilística e não probabilística)",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","5. Estatística","5.2. Noções de inferência estatística (população, amostra, estatística e parâmetro, distribuições amostrais)",não informado
+Bloco 5,"Transparência, Proteção de Dados, Comunicação e Atendimento ao Cidadão","5. Estatística","5.3. Estatísticas de localização: média, mediana, moda",não informado

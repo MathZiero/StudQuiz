@@ -1,0 +1,81 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.1. Paradigmas, conceitos, origens e evolução",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.2. Modelos e concepções de inovação tecnológica",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.3. Pensamento crítico sobre impactos sociais da ciência e tecnologia",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.4. Interações entre ciência, tecnologia, cultura e valores sociais",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.5. Relação entre desenvolvimento tecnológico e social",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.6. Ética em pesquisa científica (comitês de ética, consentimento, integridade)",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.7. Popularização da ciência e engajamento público",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.8. Desigualdades no acesso à ciência e tecnologia (gênero, raça, território)",não informado
+Bloco 3,"Ciência, Tecnologia e Sociedade (CTS)","1. Fundamentos da abordagem CTS","1.9. Ciência aberta, acesso livre à informação científica e reprodutibilidade",não informado
+Bloco 3,"Políticas Públicas de CT&I","1. Estrutura, fundamentos e instrumentos da CT&I no Brasil","1.1. Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI)",não informado
+Bloco 3,"Políticas Públicas de CT&I","1. Estrutura, fundamentos e instrumentos da CT&I no Brasil","1.2. Marco legal da CT&I (Lei 13.243/2016 – Marco Legal de CT&I; Lei da Inovação; Lei do Bem)",não informado
+Bloco 3,"Políticas Públicas de CT&I","2. Planos, programas e instrumentos de fomento à CT&I","2.1. CNPq",não informado
+Bloco 3,"Políticas Públicas de CT&I","2. Planos, programas e instrumentos de fomento à CT&I","2.2. CAPES",não informado
+Bloco 3,"Políticas Públicas de CT&I","2. Planos, programas e instrumentos de fomento à CT&I","2.3. FINEP",não informado
+Bloco 3,"Políticas Públicas de CT&I","2. Planos, programas e instrumentos de fomento à CT&I","2.4. FNDCT",não informado
+Bloco 3,"Políticas Públicas de CT&I","2. Planos, programas e instrumentos de fomento à CT&I","2.5. EMBRAPII",não informado
+Bloco 3,"Políticas Públicas de CT&I","3. Modelos institucionais de inovação","3.1. Triângulo de Sábato",não informado
+Bloco 3,"Políticas Públicas de CT&I","3. Modelos institucionais de inovação","3.2. Hélice Tripla (universidade–indústria–governo)",não informado
+Bloco 3,"Políticas Públicas de CT&I","3. Modelos institucionais de inovação","3.3. Programas de desenvolvimento tecnológico para a indústria (histórico e PNI)",não informado
+Bloco 3,"Políticas Públicas de CT&I","4. Indicadores de CT&I","4.1. Pesquisa de Inovação Tecnológica (PINTEC/IBGE)",não informado
+Bloco 3,"Políticas Públicas de CT&I","4. Indicadores de CT&I","4.2. Indicadores Nacionais de CT&I (análises e resultados)",não informado
+Bloco 3,"Políticas Públicas de CT&I","5. ODS e CT&I","5.1. Contribuições da ciência e tecnologia para a sustentabilidade",não informado
+Bloco 3,"Políticas Públicas de CT&I","5. ODS e CT&I","5.2. Integração com a Agenda 2030",não informado
+Bloco 3,"Políticas Públicas de CT&I","5. ODS e CT&I","5.3. Governança, accountability e transparência na gestão pública",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.1. Conceitos básicos de gestão de projetos em CT&I",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.2. Definição de projeto e características principais",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3. Ciclo de vida de um projeto",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3.1. Iniciação",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3.2. Planejamento",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3.3. Execução",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3.4. Monitoramento e controle",não informado
+Bloco 3,"Gestão de Projetos em CT&I","1. Fundamentos e práticas de gestão de projetos","1.3.5. Encerramento",não informado
+Bloco 3,"Gestão de Projetos em CT&I","2. Noções de gestão de escopo, tempo, custo, qualidade, recursos, comunicações, riscos, aquisições e stakeholders de projetos","2.1. Ferramentas e métodos (Gantt, PERT/CPM, RACI, Kanban, SCRUM)",não informado
+Bloco 3,"Gestão de Projetos em CT&I","3. Gestão da inovação e do conhecimento em projetos de CT&I","",não informado
+Bloco 3,"TICs e Ciência de Dados","1. Fundamentos e aplicações de TICs e ciência de dados","1.1. Fundamentos das TICs",não informado
+Bloco 3,"TICs e Ciência de Dados","1. Fundamentos e aplicações de TICs e ciência de dados","1.2. Transformação digital na administração pública",não informado
+Bloco 3,"TICs e Ciência de Dados","1. Fundamentos e aplicações de TICs e ciência de dados","1.2.1. Estratégia Federal de Governo Digital",não informado
+Bloco 3,"TICs e Ciência de Dados","1. Fundamentos e aplicações de TICs e ciência de dados","1.2.2. Dados como ativo estratégico para políticas públicas",não informado
+Bloco 3,"TICs e Ciência de Dados","2. Conceitos e aplicações de ciência de dados, Big Data e IoT","2.1. Inteligência artificial, aprendizado de máquina e análise preditiva",não informado
+Bloco 3,"TICs e Ciência de Dados","2. Conceitos e aplicações de ciência de dados, Big Data e IoT","2.2. Ética, vieses algorítmicos e impactos sociais da IA",não informado
+Bloco 3,"TICs e Ciência de Dados","3. Governança de dados, interoperabilidade de sistemas e LGPD","",não informado
+Bloco 3,"TICs e Ciência de Dados","4. Visualização e interpretação de dados em contextos de pesquisa e gestão pública","",não informado
+Bloco 3,"TICs e Ciência de Dados","5. Uso de dados para formulação, monitoramento e avaliação de políticas públicas","",não informado
+Bloco 3,"TICs e Ciência de Dados","6. Dados abertos e transparência na gestão pública","",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1. Finalidades da pesquisa científica",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1.1. Pesquisa básica",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1.2. Aplicada",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1.3. Exploratória",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1.4. Descritiva",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","1. Fundamentos e práticas de pesquisa científica","1.1.5. Explicativa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.1. Qualitativa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.2. Quantitativa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.3. Mista",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.4. Métodos científicos",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.5. Indutivo",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.6. Dedutivo",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.7. Hipotético-dedutivo",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.8. Tipos de pesquisa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.9. Estudos de caso",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.10. Pesquisa-ação",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.11. Levantamento",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.12. Pesquisa experimental e quase-experimental",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.13. Revisão de literatura",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.14. Revisão bibliográfica",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","2. Classificação quanto à abordagem","2.15. Revisão sistemática e integrativa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.1. Tema",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.2. Problema",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.3. Justificativa",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.4. Objetivos",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.5. Hipóteses",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.6. Metodologia",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7. Instrumentos de coleta de dados",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7.1. Entrevistas",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7.2. Questionário",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7.3. Observação",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7.4. Formulários",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","3. Elementos do projeto de pesquisa","3.7.5. Análise documental",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","4. Procedimentos de coleta de dados","4.1. Redação científica",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","4. Procedimentos de coleta de dados","4.2. Estrutura de artigos e relatórios técnicos",não informado
+Bloco 3,"Metodologia da Pesquisa Científica","4. Procedimentos de coleta de dados","4.3. Normas da ABNT, APA, Vancouver e outras",não informado
