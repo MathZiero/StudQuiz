@@ -1,8 +1,8 @@
 import random
 from models.question import Question
 from utils.parser import carregar_topico_aleatorio
-from services.gemini import gerar_pergunta  # ATUALIZADO
-from services.firebase import salvar_resultado_simulado
+from services.gemini import gerar_pergunta  
+from services.firebase_service import salvar_resultado
 
 def main():
     """
@@ -12,9 +12,9 @@ def main():
 
     # Mapeamento dos blocos para os nomes dos arquivos CSV
     blocos = {
-        "1": {"nome": "Bloco 1 - Infraestrutura, Exatas e Engenharias", "arquivo": "csv/bloco_1.txt"},
-        "3": {"nome": "Bloco 3 - Ambiental, Agrário e Biológicas", "arquivo": "csv/bloco_3.txt"},
-        "5": {"nome": "Bloco 5 - Educação, Saúde, Desenvolvimento Social e Direitos Humanos", "arquivo": "csv/bloco_5.txt"}
+        "1": {"nome": "Bloco 1", "arquivo": "csv/bloco_1.txt"},
+        "3": {"nome": "Bloco 3", "arquivo": "csv/bloco_3.txt"},
+        "5": {"nome": "Bloco 5", "arquivo": "csv/bloco_5.txt"}
     }
 
     # Seleção do Bloco pelo usuário
@@ -89,7 +89,7 @@ def main():
     }
     
     # Simula o salvamento dos dados
-    salvar_resultado_simulado(resultado)
+    salvar_resultado(resultado)
 
 if __name__ == "__main__":
     main()
