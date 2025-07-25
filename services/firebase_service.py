@@ -1,172 +1,80 @@
-
-"""
-Serviço Firebase consolidado
-Baseado no seu código atual, mas melhorado e organizado
-"""
 import firebase_admin
 from firebase_admin import credentials, firestore
-from datetime import datetime
 import os
+import hashlib
 from dotenv import load_dotenv
 
 class FirebaseService:
     def __init__(self):
         self.db = None
-        self._inicializar()
-    
-    def _inicializar(self):
-        """Inicializa Firebase uma única vez"""
+
+    def _get_db(self):
+        if self.db:
+            return self.db
         if not firebase_admin._apps:
             try:
                 load_dotenv()
-                
-                # Caminho para credenciais
                 cred_path = "serviceAccountKey.json"
-                
                 if os.path.exists(cred_path):
                     cred = credentials.Certificate(cred_path)
                     firebase_admin.initialize_app(cred)
                     print("✅ Firebase inicializado com sucesso!")
-                    return True
                 else:
-                    print("❌ Arquivo serviceAccountKey.json não encontrado!")
-                    return False
-                    
+                    print("🔥 AVISO: Arquivo serviceAccountKey.json não encontrado.")
+                    return None
             except Exception as e:
                 print(f"❌ Erro ao inicializar Firebase: {e}")
-                return False
-        else:
-            print("✅ Firebase já estava inicializado")
-            return True
-    
-    def obter_db(self):
-        """Retorna instância do Firestore"""
-        if self._inicializar():
-            if not self.db:
-                self.db = firestore.client()
-            return self.db
-        return None
-    
-    def salvar_resultado(self, resultado: dict, colecao: str = "quiz_resultados"):
-        """
-        Salva resultado no Firestore
-        Baseado na sua função original, mas melhorada
+                return None
+        self.db = firestore.client()
+        return self.db
+
+    def salvar_questao_no_banco(self, question_obj, bloco_tematico: str) -> str:
+        """Salva uma pergunta na coleção 'questoes', incluindo o bloco temático."""
+        db = self._get_db()
+        if not db:
+            print("🔥 AVISO: Conexão com Firebase falhou. A questão não foi salva.")
+            return None
         
-        Args:
-            resultado: Um dicionário contendo os dados a serem salvos
-            colecao: Nome da coleção (padrão: "quiz_resultados")
-        
-        Returns:
-            str: ID do documento criado, ou False em caso de erro
-        """
         try:
-            # Obter instância do banco
-            db = self.obter_db()
-            if not db:
-                print("❌ Não foi possível conectar ao Firebase")
-                return False
+            question_data = question_obj.to_dict()
+            # 1. Adiciona o bloco temático aos dados da questão
+            question_data['bloco_tematico'] = bloco_tematico
             
-            # Adicionar timestamp automático (igual ao seu código)
-            resultado_completo = {
-                **resultado,
-                "timestamp": datetime.now(),
-                "data_criacao": firestore.SERVER_TIMESTAMP
-            }
-            
-            # Salvar na coleção "quiz_resultados" (igual ao seu código)
-            doc_ref = db.collection(colecao).add(resultado_completo)
-            doc_id = doc_ref[1].id
-            
-            print(f"✅ Resultado salvo com sucesso! ID: {doc_id}")
-            return doc_id
-            
+            enunciado_hash = hashlib.sha256(question_data['enunciado'].encode()).hexdigest()
+            question_data['hash'] = enunciado_hash
+            question_data['criado_em'] = firestore.SERVER_TIMESTAMP
+
+            doc_ref = db.collection('questoes').add(question_data)
+            question_id = doc_ref[1].id
+            print(f"✅ Pergunta (Bloco: {bloco_tematico}) salva no banco de dados com ID: {question_id}")
+            return question_id
         except Exception as e:
-            print(f"❌ Erro ao salvar resultado: {e}")
+            print(f"❌ Erro ao salvar questão no Firestore: {e}")
+            return None
+
+    def salvar_resposta_usuario(self, session_id: str, question_id: str, user_answer_idx: int, is_correct: bool):
+        """Salva a resposta de um usuário na coleção 'respostas_usuarios'."""
+        db = self._get_db()
+        if not db or not question_id:
+            if not question_id:
+                print("🔥 AVISO: ID da questão é nulo. A resposta do usuário não foi salva.")
+            else:
+                print("🔥 AVISO: Conexão com Firebase falhou. A resposta do usuário não foi salva.")
             return False
-    
-    def buscar_resultados(self, colecao: str = "quiz_resultados", limite: int = None):
-        """
-        Busca resultados salvos no Firebase
         
-        Args:
-            colecao: Nome da coleção
-            limite: Número máximo de resultados
-            
-        Returns:
-            list: Lista de resultados
-        """
         try:
-            db = self.obter_db()
-            if not db:
-                return []
-            
-            query = db.collection(colecao)
-            
-            if limite:
-                query = query.limit(limite)
-            
-            # Ordenar por timestamp (mais recentes primeiro)
-            query = query.order_by("timestamp", direction=firestore.Query.DESCENDING)
-            
-            docs = query.stream()
-            resultados = []
-            
-            for doc in docs:
-                dados = doc.to_dict()
-                dados['id'] = doc.id
-                resultados.append(dados)
-            
-            return resultados
-            
+            resposta_data = {
+                "session_id": session_id,
+                "question_id": question_id,
+                "resposta_usuario_idx": user_answer_idx,
+                "acertou": is_correct,
+                "respondido_em": firestore.SERVER_TIMESTAMP
+            }
+            db.collection('respostas_usuarios').add(resposta_data)
+            print(f"✅ Resposta do usuário para a questão {question_id} salva.")
+            return True
         except Exception as e:
-            print(f"❌ Erro ao buscar dados: {e}")
-            return []
-    
-    def buscar_por_usuario(self, usuario_id: str, colecao: str = "quiz_resultados"):
-        """
-        Busca resultados de um usuário específico
-        
-        Args:
-            usuario_id: ID do usuário
-            colecao: Nome da coleção
-            
-        Returns:
-            list: Resultados do usuário
-        """
-        try:
-            db = self.obter_db()
-            if not db:
-                return []
-            
-            docs = db.collection(colecao).where("usuario_id", "==", usuario_id).stream()
-            resultados = []
-            
-            for doc in docs:
-                dados = doc.to_dict()
-                dados['id'] = doc.id
-                resultados.append(dados)
-            
-            return resultados
-            
-        except Exception as e:
-            print(f"❌ Erro ao buscar por usuário: {e}")
-            return []
+            print(f"❌ Erro ao salvar resposta do usuário: {e}")
+            return False
 
-# Instância global (singleton)
 firebase_service = FirebaseService()
-
-# Suas funções originais (para manter compatibilidade)
-def inicializar_firebase():
-    """Wrapper para manter compatibilidade com seu código atual"""
-    return firebase_service._inicializar()
-
-def obter_db():
-    """Wrapper para manter compatibilidade com seu código atual"""
-    return firebase_service.obter_db()
-
-def salvar_resultado(resultado: dict):
-    """
-    Sua função original - mantida para compatibilidade
-    Agora usa a classe internamente
-    """
-    return firebase_service.salvar_resultado(resultado)
