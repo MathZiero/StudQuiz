@@ -40,7 +40,7 @@ def gerar_pergunta(disciplina: str, topico: str, subtopico: str, dificuldade: in
         print("\nAVISO: API do Gemini não configurada. Usando dados de simulação.")
         return _gerar_pergunta_simulada(disciplina, topico, subtopico, dificuldade)
 
-    model = genai.GenerativeModel('gemini-pro')
+    model = genai.GenerativeModel('gemini-2.5-flash-lite')
 
     prompt = f"""
     Aja como um especialista em elaboração de questões para concursos públicos no Brasil.
