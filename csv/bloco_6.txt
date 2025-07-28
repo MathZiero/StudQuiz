@@ -1,0 +1,76 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Pioneiros das teorias do desenvolvimento econômico (Rosenstein-Rodan, Lewis, Hirschman, Singer)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Teorias do desenvolvimento da CEPAL",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Celso Furtado: subdesenvolvimento, cultura e desenvolvimento regional",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Relação centro-periferia, dependência e ação do Estado no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Modelos de substituição de importações e export-led growth",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Economia solidária, criativa e circular",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Experiências comparadas de desenvolvimento (Reino Unido, Alemanha, EUA, Japão, Coreia, China)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Sistemas de bem-estar social",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Financiamento do desenvolvimento: bancos de desenvolvimento",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Crescimento, mudança estrutural e meio ambiente: Green New Deal, Big Push Ambiental, Ecologia Política",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Desenvolvimento sustentável: conceitos, diretrizes",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"ODS e Agenda 2030",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Mudanças climáticas e desenvolvimento: mitigação e adaptação",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Meio ambiente e desigualdades socioeconômicas: degradação, pobreza, racismo ambiental, justiça ambiental",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento, Sustentabilidade e Inclusão,"Transição energética e desenvolvimento",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Teorias de localização e desenvolvimento regional (clássicas, polos de crescimento, base-exportação, centro-periferia)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Nova Geografia Econômica: retornos crescentes, economias de aglomeração",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Ordenamento territorial no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Desenvolvimento regional, rural e urbano no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Indústria e desenvolvimento econômico",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Sistemas nacionais, regionais e locais de inovação",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Armadilha da renda média, doença holandesa, desindustrialização",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Cadeias globais de valor",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Diversificação e modernização produtiva no Brasil (séc. XX)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Globalização (comercial, produtiva, tecnológica, financeira)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Políticas de desenvolvimento regional no Brasil no século XXI",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Políticas de desenvolvimento territorial rural: agronegócio, agricultura familiar, segurança alimentar",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Políticas urbanas no Brasil (habitação, mobilidade, saneamento)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Políticas industriais no Brasil (instrumentos verticais, horizontais, conteúdo local, compras governamentais)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Produtivo e Regional,"Cultura e políticas culturais no Brasil: desenvolvimento produtivo e incentivo a programas culturais",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Planejamento e gestão estratégica: conceitos, etapas, níveis, métodos",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Estabelecimento de objetivos e metas organizacionais",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Métodos de desdobramento de objetivos, elaboração de planos de ação e mapas estratégicos",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Análise de cenários",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Gestão de riscos: princípios, técnicas, modelos; integração ao planejamento",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Governança e arranjos federativos: consórcios, regiões metropolitanas, RIDE, aglomerações urbanas",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Noções de contabilidade, análise de demonstrativos econômico-financeiros",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Noções de mercado de capitais, estrutura de capital e valuation",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Análise de risco de crédito, mercado, liquidez e operacional",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Falhas de mercado e atuação do Estado",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Teorias da regulação: economia da regulação, captura, agente principal, concorrência",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Análise de impacto regulatório",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Órgãos reguladores no Brasil: histórico e características",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Regulação da indústria cinematográfica e videofonográfica",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Gestão Estratégica e Regulação,"Regulação do setor de petróleo, gás natural e biocombustíveis",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Liberalismo, desenvolvimentismo e neoliberalismo: influências no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Abolição da escravatura e transição ao trabalho livre no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Era Vargas e industrialização brasileira",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Plano de Metas e o papel do Estado no desenvolvimento",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Ditadura militar: desenvolvimento econômico e desigualdade",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Crise da dívida externa, hiperinflação e Consenso de Washington",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Plano Real e abertura comercial e financeira",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Empresas estatais e desenvolvimento no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Privatizações no Brasil a partir dos anos 1990",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Início do século XXI: política social, crescimento e crise de commodities",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Crise financeira internacional de 2008-2009 e impactos no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Crise econômica, política e institucional (2015-2016)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Pandemia de Covid-19 e impactos socioeconômicos no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Financeirização da economia brasileira no século XXI",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Rigidez estrutural e desindustrialização no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desenvolvimento Socioeconômico no Brasil,"Instituições e financiamento do desenvolvimento regional",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Dinâmica demográfica: natalidade, fecundidade, mortalidade, determinantes; migração",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Desigualdade de renda e riqueza no Brasil (final do séc. XX e séc. XXI)",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Desigualdades sociais: raça, etnia, geração, classe, gênero, sexualidade",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Direitos sociais: definição, implementação, desafios e conquistas no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Políticas públicas: universalização vs. focalização",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Sistema de proteção social no Brasil pós-1988",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Políticas redistributivas no Brasil no século XXI",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Políticas afirmativas no Brasil no século XXI",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Políticas para povos indígenas e quilombolas",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Movimentos sociais, sindicatos e ações coletivas no Brasil após 1988",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Mercado de trabalho no Brasil: estruturação e regulação",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Desemprego, formalidade, trabalho autônomo e informalidade no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Terceirização, pejotização e uberização do trabalho no Brasil",,não informado
+Bloco 6 – Desenvolvimento Socioeconômico,Desigualdades e Dinâmicas Socioeconômicas,"Pobreza, fome e insegurança alimentar e nutricional no Brasil",,não informado

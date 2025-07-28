@@ -1,0 +1,40 @@
+Área,Conteúdo,Peso (%)
+Língua Portuguesa,Compreensão de textos,10
+Língua Portuguesa,Organização textual dos modos de organização discursiva,8
+Língua Portuguesa,Coerência e coesão,6
+Língua Portuguesa,Ortografia e acentuação gráfica,5
+Língua Portuguesa,"Classe, estrutura, formação e significação de vocábulos",6
+Língua Portuguesa,Derivação e composição,4
+Língua Portuguesa,A oração e seus termos,6
+Língua Portuguesa,Estruturação do período,5
+Língua Portuguesa,"Classes de palavras: morfologia, sintaxe, estilo",6
+Língua Portuguesa,Linguagem figurada,3
+Língua Portuguesa,"Norma padrão: concordância, regência, pronomes, pontuação",11
+Matemática,"Conjuntos numéricos: naturais, inteiros, racionais, reais, potências, raízes",8
+Matemática,"Unidades de Medidas: comprimento, área, volume, massa, tempo",6
+Matemática,"Razão e proporção, regra de três, porcentagem, juros",7
+Matemática,Probabilidade,4
+Matemática,"Estatística básica: gráficos, tabelas, média, mediana, moda",5
+Noções de Direito,Direitos e garantias fundamentais,7
+Noções de Direito,Organização do Estado e Administração Pública,6
+Noções de Direito,"Direito Administrativo: princípios, agentes, atos, poderes",9
+Noções de Direito,Serviços públicos e responsabilidade do Estado,5
+Noções de Direito,Processo administrativo e controle da administração,6
+Noções de Direito,Lei de Acesso à Informação e LGPD,4
+Noções de Direito,Direito do Consumidor e Defesa da Concorrência,3
+Realidade Brasileira,"Estrutura social: desigualdade, exclusão e grupos vulneráveis",7
+Realidade Brasileira,Desenvolvimento econômico e concentração de renda,5
+Realidade Brasileira,Desenvolvimento sustentável e meio ambiente,5
+Realidade Brasileira,Matriz energética e transição energética,5
+Realidade Brasileira,Desenvolvimento urbano e problemas das cidades,4
+Realidade Brasileira,Infraestrutura e desenvolvimento nacional,4
+Realidade Brasileira,Desigualdades regionais,3
+Regulação,Papel regulador do Estado: conceitos e instrumentos,6
+Regulação,"Agências Reguladoras: estrutura, funções, controle",6
+Regulação,Reforma do Estado e papel das Agências,4
+Regulação,"Boas práticas regulatórias: AIR, ARR, participação social",6
+Regulação,Boas práticas de fiscalização,4
+Regulação,"Gerenciamento e garantia da qualidade, auditoria",4
+Regulação,Análise e gerenciamento de risco,4
+Regulação,Fiscalização responsiva,3
+Regulação,Processo administrativo sancionador,3

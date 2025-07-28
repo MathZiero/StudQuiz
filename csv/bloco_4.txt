@@ -1,0 +1,67 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Estudos de viabilidade técnica, econômica, ambiental e social",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Planejamento de obras e serviços: orçamentação, BDI, encargos sociais",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Índices de atualização de custos na construção civil",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Licitação e contratação de obras (Lei nº 14.133/2021)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Execução de obras: gestão do cronograma físico-financeiro (curvas de controle, medições, fatura)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Gestão da manutenção: preditiva e corretiva",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Projetos de infraestrutura urbana (saneamento, drenagem, pavimentação, água)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Gestão da qualidade na construção civil (ensaios, vistorias, pareceres)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Gerenciamento e fiscalização de obras",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Gestão de riscos: matriz e ferramentas",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Segurança do trabalho na construção civil",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Geração, transmissão e distribuição de energia: proteções elétricas",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Projeto e análise de máquinas: circuitos elétricos, NBR 5410, NR-10",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Projeto e análise de máquinas: sistemas hidráulicos, pneumáticos, dinâmicos, vibrações",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Projeto e análise de máquinas: máquinas de fluxo, turbinas, motores, automação, controle",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"Projeto e análise de máquinas: máquinas elétricas, instrumentação, controle de processos",,não informado
+Bloco 4 – Engenharia e Arquitetura,Gestão de obras e serviços de engenharia,"CLPs (controladores lógicos programáveis)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Lei de parcelamento do solo urbano (Lei nº 6.766/1979)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Política Nacional de Desenvolvimento Regional (Decreto nº 9.810/2019)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Política Nacional de Desenvolvimento Urbano; Estatuto da Cidade (Lei nº 10.257/2001)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Estatuto da Metrópole (Lei nº 13.089/2015)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Política de gestão do patrimônio imobiliário federal (Lei nº 9.636/1998)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Plano Nacional de Gerenciamento Costeiro (Lei nº 7.661/1988)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Política Nacional de Gestão Territorial de Terras Indígenas (Decreto nº 7.747/2012)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Demarcação das terras indígenas (Decreto nº 1.775/1996)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Regularização fundiária rural e urbana (Lei nº 13.465/2017)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Políticas nacionais setoriais: habitação, saneamento (Lei nº 11.445/2007), mobilidade urbana (Lei nº 12.587/2012)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Topografia, levantamento topográfico e geodésico: cartografia básica (escala, coordenadas, GPS)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento Territorial,"Geografia urbana e urbanismo: conceitos de território e estrutura territorial brasileira",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Elaboração de projetos: programa de necessidades, dimensionamento, zoneamento",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Projetos preliminares, básicos e executivos",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Anotação de Responsabilidade Técnica (ART)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Acessibilidade e inclusão (Lei nº 13.146/2015); ABNT NBR 9050:2022",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Coordenação modular e dimensional: funcionalidade e adaptabilidade de edificações",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Intervenções em imóveis e bens tombados: conservação e restauração",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Levantamento e diagnóstico do estado de conservação",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Sistemas estruturais e tecnologias construtivas: dimensionamento de pilares, lajes e vigas",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Propriedades físicas e mecânicas dos materiais; patologias e tratamentos preventivos e corretivos",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Projetos complementares de instalações prediais (elétricas, hidráulicas, HVAC, combate a incêndio)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Compatibilização de projetos arquitetônicos e instalações complementares",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Ergonomia e conforto ambiental (térmico, acústico, luminoso) nas edificações",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Aplicação da NR-17 (Minist. Trabalho) em edificações",,não informado
+Bloco 4 – Engenharia e Arquitetura,Planejamento e Projetos de Obras,"Ferramentas CAD e BIM em planejamento e simulação",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Política agrícola (Lei nº 8.171/1991)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Aptidão das terras, preparo, correção e conservação do solo; agroecologia e agricultura de conservação",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Certificação e rotulagem de produtos agroecológicos",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Fitossanidade e doenças de plantas (fitopatologia)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Zoneamento Ecológico-Econômico; Reforma agrária; Agricultura familiar e comunitária",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Uso sustentável de recursos naturais; programas indígenas (PNGATI, etc.)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Programa Nacional da Aquicultura (Decreto nº 11.852/2023)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Programas de desenvolvimento pesqueiro (Decretos nº 11.626/2023, nº 10.736/2021, nº 10.576/2020)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Ecologia de ecossistemas aquáticos; técnicas de pesca artesanal/industrial",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Aquicultura sustentável; espécies de interesse; dinâmica de populações",,não informado
+Bloco 4 – Engenharia e Arquitetura,Agrário e Pesqueiro,"Variações ambientais e climáticas: risco climático na pesca",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Gestão ambiental (Lei nº 6.938/1981, economia ambiental, desenvolvimento sustentável)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Valoração econômica do meio ambiente",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Política Nacional sobre Mudança do Clima (Lei nº 12.187/2009)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Proteção ao patrimônio histórico e cultural (Lei nº 6.292/1975; Decreto nº 25/1937)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Recomendações internacionais de preservação (Cartas de Veneza, Estocolmo, Paris, etc.)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Licenciamento ambiental: procedimentos e EIA/RIMA",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Processo de licenciamento: tipos, audiência pública, compensação, condicionantes",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Política Energética Nacional (Lei nº 9.478/1997); Lei do Gás (Lei nº 14.134/2021); eficiência energética; fontes renováveis",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Política Nacional de Recursos Hídricos (Lei nº 9.433/1997); SINGREH",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Gestão e conservação das águas, açudes, irrigação; noções de limnologia",,não informado
+Bloco 4 – Engenharia e Arquitetura,Sustentabilidade e Patrimônio Cultural,"Hidrologia, meteorologia e condições climáticas (ciclo hidrológico, balanço hídrico)",,não informado

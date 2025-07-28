@@ -1,0 +1,54 @@
+Bloco Temático,Disciplina,Tópico,Subtópico,Peso
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018)",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Lei de Acesso à Informação – LAI (Lei nº 12.527/2011)",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,Gestão do conhecimento e comunicação,,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Política nacional de informação e comunicação pública",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Inteligência artificial generativa e comunicação ética",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Plataformas digitais e mediação tecnológica no serviço público",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,"Comunicação governamental e Comunicação Pública: Lei nº 14.129/2021, Decreto nº 3.296/1999 (comunicação social do Poder Executivo Federal); Marco Civil da Internet (Lei nº 12.965/2014).",,não informado
+Bloco 2 – Cultura e Educação,Gestão do conhecimento e comunicação,Políticas de comunicação,,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Legislação educacional e normas",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Diretrizes e Bases da Educação Nacional – LDB (Lei nº 9.394/1996).",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Educação como direito e política pública: CF/1988, art. 205-208.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Plano Nacional de Educação (2014–2024): Lei nº 13.005/2014 e alterações.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Educação à distância e tecnologias educacionais",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Modelos e modalidades de EaD: assíncrona, síncrona, híbrida ou semipresencial; modelos industrial, interativo, colaborativo, híbrido.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Plataformas digitais e recursos interativos: conceitos fundamentais, aplicações na educação.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Ensino superior, pesquisa e extensão: Lei nº 9.394/1996; CF/1988.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Políticas para graduação e pós-graduação: PNPG 2025-2029.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Integração entre ensino e pesquisa.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Educação para sustentabilidade: Lei nº 9.795/1999 (educação ambiental).",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"ODS relacionados à educação, cultura e igualdade",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Educação,"Agenda 2030 e integração com políticas públicas.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Sistema e Plano Nacional de Cultura: Lei nº 12.343/2010; Lei nº 14.835/2024.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,Política e educação patrimoniais,,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Gestão de acervos e ações educativas em museus, arquivos e sítios históricos.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Proteção/prom. diversidade de expressões culturais; Patrimônio Mundial, Cultural e Natural.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,Gestão cultural,,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Inovação, economia da cultura e sustentabilidade cultural.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Instrumentos de fomento à cultura: Pronac/Rouanet, Lei do Audiovisual, Lei Paulo Gustavo, PNAB (leis relevantes).",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Política de editais e de descentralização.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,Direitos culturais,,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Cultura como direito fundamental.",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Direitos autorais: Lei de Direitos Autorais – LDA (Lei nº 9.610/1998).",,não informado
+Bloco 2 – Cultura e Educação,Políticas Públicas de Cultura,"Saberes tradicionais e culturas sustentáveis: Programa Cultura Viva (Lei nº 13.018/2014).",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Fundamentos metodológicos da pesquisa",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Abordagens quantitativas, qualitativas e mistas",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Definição de problema, hipóteses e desenho de pesquisa",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Técnicas de coleta e análise de dados",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Pesquisa aplicada para políticas públicas",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Tipos e usos da pesquisa aplicada no setor público",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Estudos de caso e aplicações em educação, cultura e sociedade",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Articulação entre universidade, sociedade civil e Estado",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Ciclo da pesquisa e suas etapas",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Planejamento, execução, comunicação e gestão de projetos de pesquisa",,não informado
+Bloco 2 – Cultura e Educação,Pesquisa,"Ética em pesquisa",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Análise de indicadores",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Tipos de indicadores: resultado, impacto, processo",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Construção, validação e interpretação de indicadores",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Sistemas de monitoramento e acompanhamento de políticas",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Métodos quantitativos e análise de dados",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Tratamento de bases de dados",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Ferramentas de Big Data e bases de dados",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Análise exploratória e inferencial de dados",,não informado
+Bloco 2 – Cultura e Educação,Avaliação,"Modelos multivariados",,não informado
