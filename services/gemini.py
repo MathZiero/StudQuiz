@@ -36,11 +36,24 @@ def gerar_pergunta(disciplina: str, topico: str, subtopico: str, dificuldade: in
     Gera uma pergunta de concurso utilizando a API do Gemini.
     Se a API não estiver configurada, recorre à função simulada.
     """
+    # Função auxiliar para limpar valores nulos/nan (comum ao carregar CSVs com pandas)
+    def _limpar_campo(val):
+        if val is None or (isinstance(val, float) and val != val):
+            return ""
+        return str(val)
+
+    disciplina = _limpar_campo(disciplina)
+    topico = _limpar_campo(topico)
+    subtopico = _limpar_campo(subtopico)
+
     if not genai or not _configurar_api_gemini():
         print("\nAVISO: API do Gemini não configurada. Usando dados de simulação.")
         return _gerar_pergunta_simulada(disciplina, topico, subtopico, dificuldade)
 
-    model = genai.GenerativeModel('gemini-2.5-flash-lite')
+    model = genai.GenerativeModel('gemini-3.5-flash')
+
+
+
 
     prompt = f"""
     Aja como um especialista em elaboração de questões para concursos públicos no Brasil.
