@@ -1,10 +1,24 @@
+"""
+Ponto de entrada da interface de usuário em Streamlit (StudQuiz CNPU).
+
+Responsabilidade:
+Exclusivamente renderização visual (layout, tema CSS e captura de eventos de clique),
+delegando o fluxo de regras de negócio para o `controllers.quiz_controller`.
+"""
 import streamlit as st
 import uuid
 
-from utils.parser import carregar_topico_aleatorio, carregar_disciplinas_do_bloco
-from services.gemini import gerar_pergunta
-from services.supabase_service import supabase_service
-from models.question import Question
+from utils.csv_disciplines import carregar_disciplinas_do_bloco
+from controllers.quiz_controller import (
+    reset_to_blocks,
+    reset_to_disciplines,
+    select_block,
+    start_quiz,
+    generate_new_question,
+    handle_answer,
+)
+
+
 
 # ---------------------------------------------------------------------------
 # Configuração da Página
@@ -437,68 +451,6 @@ if 'stage' not in st.session_state:
     st.session_state.answer_submitted = False
     st.session_state.user_answer_idx = None
 
-# ---------------------------------------------------------------------------
-# Funções de Lógica
-# ---------------------------------------------------------------------------
-def reset_to_blocks():
-    st.session_state.stage = 'select_block'
-    st.session_state.score = 0
-    st.session_state.questions_answered = 0
-    st.session_state.current_difficulty = 1
-
-def reset_to_disciplines():
-    st.session_state.stage = 'select_discipline'
-    st.session_state.score = 0
-    st.session_state.questions_answered = 0
-    st.session_state.current_difficulty = 1
-
-def select_block(block_id, block_name):
-    st.session_state.selected_block = {'id': block_id, 'name': block_name}
-    st.session_state.stage = 'select_discipline'
-
-def start_quiz(discipline):
-    st.session_state.selected_discipline = discipline
-    st.session_state.stage = 'generate_question'
-
-def generate_new_question():
-    arquivo_csv = f"csv/bloco_{st.session_state.selected_block['id']}.txt"
-    with st.spinner("Gerando questão com IA..."):
-        topico = carregar_topico_aleatorio(arquivo_csv, st.session_state.selected_discipline)
-        if topico:
-            question_obj = gerar_pergunta(
-                disciplina=topico.get('Disciplina', ''),
-                topico=topico.get('Tópico', ''),
-                subtopico=topico.get('Subtópico', ''),
-                dificuldade=st.session_state.current_difficulty
-            )
-            question_id = supabase_service.salvar_questao_no_banco(
-                question_obj, st.session_state.selected_block['name']
-            )
-            st.session_state.current_question_obj = question_obj
-            st.session_state.current_question_id = question_id
-            st.session_state.answer_submitted = False
-            st.session_state.user_answer_idx = None
-            st.session_state.stage = 'show_question'
-        else:
-            st.error(f"Não foi possível carregar um tópico para '{st.session_state.selected_discipline}'.")
-            st.session_state.stage = 'select_discipline'
-
-def handle_answer(user_answer_idx):
-    st.session_state.answer_submitted = True
-    st.session_state.user_answer_idx = user_answer_idx
-    is_correct = (user_answer_idx == st.session_state.current_question_obj.resposta_correta_idx)
-    if is_correct:
-        st.session_state.score += 1
-        st.session_state.current_difficulty = min(5, st.session_state.current_difficulty + 1)
-    else:
-        st.session_state.current_difficulty = max(1, st.session_state.current_difficulty - 1)
-    st.session_state.questions_answered += 1
-    supabase_service.salvar_resposta_usuario(
-        session_id=st.session_state.session_id,
-        question_id=st.session_state.current_question_id,
-        user_answer_idx=user_answer_idx,
-        is_correct=is_correct
-    )
 
 LETTERS = ['A', 'B', 'C', 'D', 'E']
 BLOCK_DATA = {

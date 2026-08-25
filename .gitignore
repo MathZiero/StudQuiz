@@ -1,31 +1,56 @@
-# Python
+# Ambientes e Segredos (NUNCA versionar)
+.env
+.env.*
+*.env
+serviceAccountKey.json
+*firebase*key*.json
+firebase-adminsdk-*.json
+.streamlit/secrets.toml
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache e Compilação Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.Python
 
-# Environments
-.env
-.venv
-venv/
-env/
-ENV/
+# Testes e Cobertura
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
 
-# IDEs
-.idea/
+# IDEs e Editores
 .vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
 
-# Package Distribution
+# Logs e Bancos de Dados locais
+*.log
+*.sqlite3
+*.db
+
+# Distribuição e Pacotes
 build/
 dist/
 *.egg-info/
+*.egg
 
-# Logs and databases
-*.log
-*.sqlite3
-
-
-# Firebase credentials
-serviceAccountKey.json
-*firebase*key*.json
-firebase-adminsdk-*.json
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
